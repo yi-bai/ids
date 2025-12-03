@@ -1,33 +1,3 @@
----
-title: MIT License
-spdx-id: MIT
-featured: true
-hidden: false
-
-description: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace 2021-2025 with the current year and Olexandr88 with the name (or names) of the copyright holders.
-
-using:
-  Babel: https://github.com/babel/babel/blob/master/LICENSE
-  .NET: https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
-  Rails: https://github.com/rails/rails/blob/master/MIT-LICENSE
-
-permissions:
-  - commercial-use
-  - modifications
-  - distribution
-  - private-use
-
-conditions:
-  - include-copyright
-
-limitations:
-  - liability
-  - warranty
-
----
-
 MIT License
 
 Copyright (c) 2021-2025 Olexandr88
