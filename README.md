@@ -8,7 +8,7 @@ ids_lv0.txt: All differences in strokes are differentiated.
 
 ids_lv1.txt: Stroke-level differences (e.g. 丶 and 乀 in certain position) are merged.
 
-ids_lv2.txt: Part of variants defined in UCV list (e.g. 户戸戶), which considered as "must unifiable" are merged.
+ids_lv2.txt: Part of variants defined in UCV list, which considered as "must unifiable" are merged.
 
 Format of files
 ----
